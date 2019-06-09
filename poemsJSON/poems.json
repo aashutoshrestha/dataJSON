@@ -1,5 +1,5 @@
-{
-  "Poems" : [
+
+ [
     {"id" : "1",
   "poem" : "1
 I sing the body electric,
@@ -288,4 +288,3 @@ on “How to Clean My Room.”",
 "genre" : "Children"
 }
 ]
-}
